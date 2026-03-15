@@ -125,15 +125,6 @@ Your CSV should have at least these 3 columns (names can vary — you map them i
 
 ---
 
-## 🙋 About
-
-Built by **[Your Name]**
-📧 your@email.com
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
-🐙 [GitHub](https://github.com/YOUR_USERNAME)
-
----
-
 ## ⭐ If you found this useful, give it a star!
 
 ---
