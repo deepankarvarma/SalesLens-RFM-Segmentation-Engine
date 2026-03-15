@@ -23,7 +23,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **Try it here →** [your-streamlit-url.streamlit.app](https://your-streamlit-url.streamlit.app)
+🔗 **Try it here →** [your-streamlit-url.streamlit.app]([https://your-streamlit-url.streamlit.app](https://sales-lens-rfm-segmentation-engine.vercel.app/])
 
 ---
 
