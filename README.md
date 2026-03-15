@@ -29,9 +29,9 @@
 
 ## 📸 Screenshots
 
-| Dashboard Overview | Customer Segments |
-|---|---|
-| ![Overview](screenshots/dashboard_overview.png) | ![Segments](screenshots/customer_segments.png) |
+| Dashboard Overview |
+|---|
+| ![Overview](screenshots/RFM Dashboard.png) |
 
 ---
 
