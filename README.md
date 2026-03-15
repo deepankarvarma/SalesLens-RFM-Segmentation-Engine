@@ -124,9 +124,3 @@ Your CSV should have at least these 3 columns (names can vary — you map them i
 - 📉 Churn risk identification
 
 ---
-
-## ⭐ If you found this useful, give it a star!
-
----
-
-*Made with ❤️ and a lot of data*
